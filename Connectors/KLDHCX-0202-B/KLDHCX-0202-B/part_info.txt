@@ -1,0 +1,9 @@
+Manufacturer=Kycon
+PartNumber=KLDHCX-0202-B
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=1.4
+Released=2021-01-04 11:29:56
+Downloaded=2026-08-06 18:41:10
+3D=Y

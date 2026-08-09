@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "KLDHCX0202B"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "KLDHCX0202B")
+        (spec "default")
+    )
+)
