@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KLDHCX_0202_B'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kycon", "KLDHCX-0202-B" (!) = "", "KLDHCX0202B", "Other", "806-KLDHCX-0202-B", "https://www.mouser.co.uk/ProductDetail/Kycon/KLDHCX-0202-B?qs=3kl6BaT4OLKD0IyWsYmUFw%3D%3D", "", "", "DC Power Connectors 2.5MM DIA HIGH CURRENT", "http://anacapa.kycon.com/2013Catalogpage/DC%20Power/KLDHCX-0202.pdf", "11 mm"
+END_PART
+
+END.
